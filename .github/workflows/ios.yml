@@ -1,3 +1,13 @@
+
+
+name: iOS starter workflow
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
 jobs:
   build:
     name: Build and Test with default scheme
