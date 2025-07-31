@@ -175,7 +175,7 @@
 				};
 			};
 			buildConfigurationList = F5D4BB412E3B50B200B9804C /* Build configuration list for PBXProject "DemoCICD" */;
-			compatibilityVersion = "Xcode 15.0";
+			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
