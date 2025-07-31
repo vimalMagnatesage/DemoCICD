@@ -162,20 +162,20 @@
 				LastUpgradeCheck = 1640;
 				TargetAttributes = {
 					F5D4BB452E3B50B200B9804C = {
-						CreatedOnToolsVersion = 16.4;
+						CreatedOnToolsVersion = 15.0;
 					};
 					F5D4BB522E3B50B500B9804C = {
-						CreatedOnToolsVersion = 16.4;
+						CreatedOnToolsVersion = 15.0;
 						TestTargetID = F5D4BB452E3B50B200B9804C;
 					};
 					F5D4BB5C2E3B50B500B9804C = {
-						CreatedOnToolsVersion = 16.4;
+						CreatedOnToolsVersion = 15.0;
 						TestTargetID = F5D4BB452E3B50B200B9804C;
 					};
 				};
 			};
 			buildConfigurationList = F5D4BB412E3B50B200B9804C /* Build configuration list for PBXProject "DemoCICD" */;
-			compatibilityVersion = "Xcode 14.0";
+			compatibilityVersion = "Xcode 15.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
